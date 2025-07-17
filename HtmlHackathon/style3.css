@@ -1,0 +1,49 @@
+
+h1 {
+  color: lightseagreen;
+  font-size: 45px;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  text-shadow: 2px 2px grey;
+  text-decoration: underline;
+}
+h3 {
+  color: black;
+  font-size: 15px;
+  font-family: 'Georgia', serif;
+    }
+h2 {
+  color: purple;
+  font-size: 20px;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  }
+marquee {
+      font-family: 'Verdana', sans-serif;
+      font-size: 15px;
+      color: red;
+      font-weight: bold;
+    }
+img:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+img {
+  border: 2px solid #2b6777;
+  padding: 5px;
+  border-radius: 15px;
+}
+a:hover {
+    text-decoration: underline;
+    color: green; 
+    font-size: 18px; 
+    font-family: Arial;
+    font-weight: bold;
+  }
+  a {
+  color: red;              /* text color */
+  font-size: 18px;          /* text size */
+  font-weight: bold;        /* bold text */
+  text-decoration: none;    /* removes underline */
+  font-family: Arial;       /* font style */
+}
